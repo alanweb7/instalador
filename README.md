@@ -1,8 +1,8 @@
 ![Logo](https://packtypebot.com.br/wp-content/webp-express/webp-images/uploads/2024/02/ads-2-2.png.webp)
 
 
-Bem-vindo ao Sistema Totalmente Atualizado para o Baileys 6.5.0 com integração especial para TypeBot, n8n e ChatGPT! Aproveite nosso preço especial de lançamento! 🚀
-# Integração TypeBot – n8n – ChatGPT
+Bem-vindo ao Sistema Totalmente Atualizado para o Baileys 6.5.0 com integração especial para TypeBot, n8n e ChatGPT! 
+# Aproveite nosso preço especial de lançamento! 🚀
 
 ## Destaques
 

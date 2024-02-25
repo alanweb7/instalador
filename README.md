@@ -1,37 +1,45 @@
-INTEGRAÇÃO COM TYPEBOT – N8N – CHATGPT
+![Logo](https://packtypebot.com.br/wp-content/webp-express/webp-images/uploads/2024/02/ads-2-2.png.webp)
 
-SISTEMA TOTALMENTE ATUALIZADO PARA O BAILYES 6.5.0
+# Integração TypeBot – n8n – ChatGPT
 
-🚀 Preço especial de lançamento! 🚀
+Bem-vindo ao Sistema Totalmente Atualizado para o Baileys 6.5.0 com integração especial para TypeBot, n8n e ChatGPT! Aproveite nosso preço especial de lançamento! 🚀
 
-Receba o tutorial completo para realizar a instalação por conta própria.
+## Destaques
 
-Conteúdo:
+- **Sistema SaaS:** Possibilidade de vender planos para gerar renda recorrente e impulsionar seu faturamento.
+- **Recursos Inclusos:**
+  - Multi atendentes
+  - Multi departamentos
+  - Protocolo de atendimento
+  - Respostas rápidas com envio de arquivos
+  - Integração TypeBot – ChatGPT via n8n – Webhook
+  - Chat interno
+  - Agendamento de mensagem (incluindo arquivos)
+  - Kanban – Trello
+  - Chatbot multinível (capaz de enviar arquivos)
+  - Tags – Etiquetas
+  - Horário de atendimento
+  - Integração SaaS para 2ª via de boleto automático
 
-Acesso aos códigos fontes
-Tutorial em texto e vídeo sobre a instalação
-O sistema é SaaS – possibilita a venda de planos para gerar uma renda recorrente, impulsionando seu faturamento.
+## Pré-requisitos e Recomendações
 
-Recursos inclusos:
+- Pode ser instalado quantas vezes desejar
+- Funciona apenas em VPS
+- Não compatível com hospedagem cPanel
+- Recomendamos VPS Contabo de no mínimo 4GB de RAM com 4 núcleos.
 
-Multi atendentes
-Multi departamentos
-Protocolo de atendimento
-Respostas rápidas com envio de arquivos
-Integração Typebot – ChatGPT como atendente – n8n – Webhook
-Chat interno
-Agendamento de mensagem (incluindo agendamento de arquivos para envio)
-Kanban – Trello
-Chatbot multinível (capaz de enviar arquivos no chatbot)
-Tags – Etiquetas
-Horário de atendimento
-Integração SaaS para 2ª via de boleto automático
-Recomendações:
+## Tutorial de Instalação
 
-Pode ser instalado quantas vezes desejar
-Funciona apenas em VPS
-Não compatível com hospedagem cPanel
-Recomendamos VPS Contabo de no mínimo 4GB de RAM com 4 núcleos.
+Receba o tutorial completo para realizar a instalação por conta própria. O pacote inclui:
+
+- Acesso aos códigos fontes
+- Tutorial em texto e vídeo sobre a instalação
+
+### Primeira Instalação
+
+```bash
+sudo apt install -y git && git clone https://github.com/whaticket-saas/instalador.git instalador && sudo chmod -R 777 instalador && cd instalador && sudo ./install_primaria
+
 
 FAZENDO DOWNLOAD DO INSTALADOR & INICIANDO A PRIMEIRA INSTALAÇÃO (USAR SOMENTE PARA PRIMEIRA INSTALAÇÃO):
 
@@ -43,4 +51,8 @@ ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR EST
 ```bash
 cd && cd ./install && sudo ./install_instancia
 ```
+
+### 🛒 COMPRE AGORA
+[https://packtypebot.com.br/produto/whaticket-crm/](https://packtypebot.com.br/produto/whaticket-crm/)
+
 

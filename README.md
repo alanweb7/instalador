@@ -1,8 +1,8 @@
 ![Logo](https://packtypebot.com.br/wp-content/webp-express/webp-images/uploads/2024/02/ads-2-2.png.webp)
 
-# Integração TypeBot – n8n – ChatGPT
 
 Bem-vindo ao Sistema Totalmente Atualizado para o Baileys 6.5.0 com integração especial para TypeBot, n8n e ChatGPT! Aproveite nosso preço especial de lançamento! 🚀
+# Integração TypeBot – n8n – ChatGPT
 
 ## Destaques
 
@@ -36,10 +36,6 @@ Receba o tutorial completo para realizar a instalação por conta própria. O pa
 - Tutorial em texto e vídeo sobre a instalação
 
 ### Primeira Instalação
-
-```bash
-sudo apt install -y git && git clone https://github.com/whaticket-saas/instalador.git instalador && sudo chmod -R 777 instalador && cd instalador && sudo ./install_primaria
-
 
 FAZENDO DOWNLOAD DO INSTALADOR & INICIANDO A PRIMEIRA INSTALAÇÃO (USAR SOMENTE PARA PRIMEIRA INSTALAÇÃO):
 

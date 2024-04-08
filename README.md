@@ -49,6 +49,6 @@ cd && cd ./install && sudo ./install_instancia
 ```
 
 ### 🛒 COMPRE AGORA
-[https://packtypebot.com.br/produto/whaticket-crm/](https://packtypebot.com.br/produto/whaticket-crm/)
+[https://packtypebot.com.br/](https://packtypebot.com.br/)
 
 
